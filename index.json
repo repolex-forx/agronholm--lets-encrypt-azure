@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "lets-encrypt-azure",
+  "versions": [
+    {
+      "commit": "57aac6bf4861b89eadc67f0dc061467e715e1ae6",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:12:29.693429+00:00"
+    }
+  ]
+}
