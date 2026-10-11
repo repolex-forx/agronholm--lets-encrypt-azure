@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/lets-encrypt-azure/commit/57aac6bf4861b89eadc67f0dc061467e715e1ae6",
       "git:hexsha": "57aac6bf4861b89eadc67f0dc061467e715e1ae6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/lets-encrypt-azure/commit/b4354d433ad1ec1d244d4d07a19e48eb428da99f",
